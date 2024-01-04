@@ -2,6 +2,7 @@
 
 - August Lindgren-Ruby
 - alindgrenruby@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/august-lr/)
 
 <!---
 hey-august/hey-august is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
