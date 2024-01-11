@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm a technical writer on the Developer Experience team at [SignalWire](signalwire.com). 
+I'm a technical writer on the Developer Experience team at [SignalWire](https://signalwire.com/). 
 
 You can find me working on the developer documentation of both SignalWire and FreeSWITCH.
 
