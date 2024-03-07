@@ -2,8 +2,6 @@
 
 ---
 
-<img src="./profile.jpeg" alt="profile picture." width="200" height="200">
-
 ## 📋 About
 
 I'm a technical writer on the Developer Experience team at [SignalWire](https://signalwire.com/). 
