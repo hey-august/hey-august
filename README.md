@@ -8,6 +8,8 @@ I'm a technical writer on the Developer Experience team at [SignalWire](https://
 
 You can find me working on developer documentation for both [SignalWire](https://developer.signalwire.com) and [FreeSWITCH](https://github.com/signalwire/freeswitch-docs).
 
+I am also contributing to open-source documentation at [Distribute Aid](https://github.com/distributeaid).
+
 I use he/him **or** they/them pronouns. Both are fine.
 
 ---
