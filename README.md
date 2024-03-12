@@ -10,7 +10,7 @@ You can find me working on developer documentation for both [SignalWire](https:/
 
 I am also contributing to open-source documentation at [Distribute Aid](https://github.com/distributeaid).
 
-I use he/him **or** they/them pronouns. Both are fine.
+I use he/him **or** they/them pronouns. Both are fine!
 
 ---
 
