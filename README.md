@@ -1,7 +1,5 @@
 # August Lindgren-Ruby
 
----
-
 ## 📋 About
 
 I'm a technical writer on the Developer Experience team at [SignalWire](https://signalwire.com/). 
