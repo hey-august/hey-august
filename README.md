@@ -6,7 +6,7 @@ I'm a technical writer on the Developer Experience team at [SignalWire](https://
 
 You can find me working on developer documentation for both [SignalWire](https://developer.signalwire.com) and [FreeSWITCH](https://github.com/signalwire/freeswitch-docs).
 
-I am also contributing to open-source documentation at [Distribute Aid](https://github.com/distributeaid).
+I also contribute to open-source documentation for [projects I like](#favorite-open-source-projects). [test](#favorite)
 
 I use he/him **or** they/them pronouns. Both are fine!
 
@@ -21,7 +21,7 @@ I use he/him **or** they/them pronouns. Both are fine!
 
 ---
 
-## ⭐️ Favorite open-source projects
+## ⭐️ Favorite open-source projects {#favorite}
 
 Here is a list of some of the projects I'm most interested in.
 
