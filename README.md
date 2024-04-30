@@ -35,3 +35,4 @@ Here is a list of some of the projects I'm most interested in.
 |[JUCE](https://github.com/juce-framework/JUCE)|C++ framework for developing audio plugins.|Build and deploy audio plugins to a variety of industry-standard formats.|
 |[Godot](https://github.com/godotengine/godot)|Game engine.|Won't retroactively impose [extractive fees](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_reception).|
 |[FreeSWITCH](https://github.com/signalwire/freeswitch)|FOSS product that revolutionized software telecommunications.|I work on docs here!|
+|[Awesome Docs](https://github.com/testthedocs/awesome-docs)|Good list of docs tools.|
