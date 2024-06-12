@@ -36,3 +36,4 @@ Here is a list of some of the projects I'm most interested in.
 |[Godot](https://github.com/godotengine/godot)|Game engine.|Won't retroactively impose [extractive fees](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_reception).|
 |[FreeSWITCH](https://github.com/signalwire/freeswitch)|FOSS product that revolutionized software telecommunications.|I work on docs here!|
 |[Awesome Docs](https://github.com/testthedocs/awesome-docs)|Good list of docs tools.|
+|[ExifTool](https://exiftool.org/#license)|Image metadata editor|No other tool comes close|
