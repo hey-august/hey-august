@@ -21,7 +21,20 @@ I use he/him **or** they/them pronouns. Both are fine!
 
 ---
 
-## ⭐️ Favorite open-source projects
+## Open source
+
+I have contributed to the following open-source projects:
+
+- SignalWire
+- FreeSWITCH
+- JSON Schema
+- ElevenLabs
+- Awesome Docs
+- Hugo
+
+---
+
+## ⭐️ Favorite projects
 
 Here is a list of some of the projects I'm most interested in.
 
