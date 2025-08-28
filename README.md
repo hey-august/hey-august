@@ -1,23 +1,6 @@
-# August Lindgren-Ruby
-
-## 📋 About
-
 DevEx Technical Writer @ [SignalWire](https://signalwire.com/). 
 
 [LinkedIn](https://www.linkedin.com/in/august-lr/)
-
----
-
-## Open source
-
-I have contributed to the following open-source projects:
-
-- SignalWire
-- FreeSWITCH
-- JSON Schema
-- ElevenLabs documentation
-- Awesome Docs
-- Hugo
 
 ---
 
