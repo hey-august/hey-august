@@ -2,22 +2,9 @@
 
 ## 📋 About
 
-I'm a technical writer on the Developer Experience team at [SignalWire](https://signalwire.com/). 
+DevEx Technical Writer @ [SignalWire](https://signalwire.com/). 
 
-You can find me working on developer documentation for both [SignalWire](https://developer.signalwire.com) and [FreeSWITCH](https://github.com/signalwire/freeswitch-docs).
-
-I also contribute to open-source documentation for projects I like.
-
-I use he/him **or** they/them pronouns. Both are fine.
-
----
-
-## 💬 Contact
-
-- 👷 August Lindgren-Ruby
-- 💌 alindgrenruby@gmail.com
-- 🤝 [LinkedIn](https://www.linkedin.com/in/august-lr/)
-- 📚 [Portfolio](https://www.notion.so/august-lr/August-Lindgren-Ruby-6aa1ddc4ab3f44ecb12d15ffaf5ed97f)
+[LinkedIn](https://www.linkedin.com/in/august-lr/)
 
 ---
 
@@ -36,7 +23,7 @@ I have contributed to the following open-source projects:
 
 ## ⭐️ Favorite projects
 
-Here is a list of some of the projects I'm most interested in.
+Here is a list of some of my favorite open-source projects.
 
 |Project|What it is|Why it's cool|
 |:--|:--|:--|
