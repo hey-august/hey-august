@@ -19,3 +19,4 @@ Here is a list of some of my favorite open-source projects.
 |[JUCE](https://github.com/juce-framework/JUCE)|C++ framework for developing audio plugins.|Build and deploy audio plugins to a variety of industry-standard formats.|
 |[Godot](https://github.com/godotengine/godot)|Game engine.|Won't retroactively impose [extractive fees](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_reception).|
 |[FreeSWITCH](https://github.com/signalwire/freeswitch)|FOSS product that revolutionized software telecommunications.|I work on docs here!|
+|[Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix)|Vastly improve the experience of using a mouse on MacOS|
