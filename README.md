@@ -11,7 +11,7 @@ Here is a list of some of my favorite open-source projects.
 |Project|What it is|Why it's cool|
 |:--|:--|:--|
 |[Ghostty](https://github.com/ghostty-org/ghostty)|A delightful new terminal emulator for macOS.|"Fast, feature-rich, and native."|
-|[Zen Browser](https://github.com/zen-browser/desktop)|A great browser with a fantastic core dev and community.|Proof that one passionate dev and a supportive community can run laps around a VC-funded project.|
+|[Zen Browser](https://github.com/zen-browser/desktop)|A great browser with a fantastic core dev and community.|Proof that one passionate dev and a supportive community can run laps around a [VC-funded project](https://www.howtogeek.com/the-arc-browser-is-dead/).|
 |[CotEditor](https://github.com/coteditor/)|An absurdly fast and functional macOS text editor.|New windows open before the Dock icon finishes its single bounce.|
 |[GitUI](https://github.com/extrawurst/gitui)|A powerful TUI for Git. |Bring a fast and flexible UI (including visual diffs!!) to your terminal of choice.|
 |[warpd](https://github.com/rvaiya/warpd)|A crazy cool (or just crazy) keyboard visual pointer. |Control your desktop with keystrokes.|
