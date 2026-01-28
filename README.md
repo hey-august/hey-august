@@ -4,9 +4,7 @@ DevEx Technical Writer @ [SignalWire](https://signalwire.com/).
 
 ---
 
-## ⭐️ Favorite projects
-
-Here is a list of some of my favorite open-source projects.
+## ⭐️ Favorite open-source projects
 
 |Project|What it is|Why it's cool|
 |:--|:--|:--|
