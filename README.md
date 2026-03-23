@@ -1,3 +1,5 @@
+<img width="1011" height="192" alt="undergrowth" src="https://github.com/user-attachments/assets/8ac04bd1-efd3-48ea-a6c8-7e1b6932d3cf" />
+
 ```
 ⠀⠀⠀⠀    ⠀⠀⠀⠀  ⣀⣠⣤⣴⣶⡶⠿⠛⢛⡛⠟⠛⣻⠷⣶
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⠿⡟⠉⠀⠀⠀⠀⠚⢃⠔⣨⣴⡿⠋
@@ -21,6 +23,9 @@
 
 ---
 
+<img width="1466" height="273" alt="maple" src="https://github.com/user-attachments/assets/68b69792-3007-4010-a415-5ab5f9f6dc80" />
+
+
 ## ⭐️ Favorite open-source projects
 
 |Project|What it is|Why it's cool|
@@ -34,3 +39,6 @@
 |[Godot](https://github.com/godotengine/godot)|Game engine.|Won't retroactively impose [extractive fees](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_reception).|
 |[FreeSWITCH](https://github.com/signalwire/freeswitch)|FOSS product that revolutionized software telecommunications.|I work on docs here!|
 |[Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix)|Vastly improve the experience of using a mouse on MacOS|Smooth scrolling from bumpy mouse wheels.|
+
+<img width="1164" height="170" alt="cardinal" src="https://github.com/user-attachments/assets/8183fdd0-37d1-4683-9cbc-c416bc4fd1d6" />
+
