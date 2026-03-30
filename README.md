@@ -3,13 +3,13 @@
 ```
 ⠀⠀⠀⠀    ⠀⠀⠀⠀  ⣀⣠⣤⣴⣶⡶⠿⠛⢛⡛⠟⠛⣻⠷⣶
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⠿⡟⠉⠀⠀⠀⠀⠚⢃⠔⣨⣴⡿⠋
-⠀⠀⠀⠀⠀⢀⣠⣤⡶⣪⣾⣿⠟⠋⢀⣼⠀⠀⡀⠀⠀⢀⡴⢁⣼⣿⡿⠥⠤⢤    August Lindgren-Ruby
-⠀⠀⣠⣴⣾⣿⡿⣫⣾⡿⠋⢁⣤⣾⣿⣿⡀⠀⢣⠀⠀⠘⠤⠊⠀⠀⠀⣠⠖⠋    technical writer, developer
+⠀⠀⠀⠀⠀⢀⣠⣤⡶⣪⣾⣿⠟⠋⢀⣼⠀⠀⡀⠀⠀⢀⡴⢁⣼⣿⡿⠥⠤⢤     August Lindgren-Ruby
+⠀⠀⣠⣴⣾⣿⡿⣫⣾⡿⠋⢁⣤⣾⣿⣿⡀⠀⢣⠀⠀⠘⠤⠊⠀⠀⠀⣠⠖⠋     technical writer, developer
 ⢠⣾⣿⣿⣿⢏⣾⣿⠏⢀⣴⡿⣿⣛⣛⣿⣳⣄⡀⠑⠂⠀⠀⠀⣀⠴⠋        
 ⠉⠉⠛⢿⢏⣾⡟⢁⣴⣟⣑⠻⢿⣿⣿⣿⡿⠃⠈⠉⢒⡲⠞⠋
-⠀⠀⠀⢸⣾⡏⢀⢺⣿⠟⠁⠀⠀⠋⠛⠉⠀⣠⠴⣾⣿              hello@august.zone
-⠀⠀⠀⢸⡿⠀⣿⡷⠁⠀⠀⠀⠀⠀⣀⠴⠋⠁⠀⢻⣿              linkedin.com/in/august-lr
-⠀⠀⠀⢸⡇⣠⠿⠁⠀⠀⠀⠀⢠⣾⠁⠀⠀⠀⠀⠸⠃              currently: docs @ signalwire
+⠀⠀⠀⢸⣾⡏⢀⢺⣿⠟⠁⠀⠀⠋⠛⠉⠀⣠⠴⣾⣿               hello@august.zone
+⠀⠀⠀⢸⡿⠀⣿⡷⠁⠀⠀⠀⠀⠀⣀⠴⠋⠁⠀⢻⣿               linkedin.com/in/august-lr
+⠀⠀⠀⢸⡇⣠⠿⠁⠀⠀⠀⠀⢠⣾⠁⠀⠀⠀⠀⠸⠃               currently: docs @ signalwire
 ⠀⠀⠀⠸⡇⢿⡇⠀⠀⠀⠀⣰⠛⣇
 ⠀⠀⠀⠀⢳⣸⡃⠀⠀⠀⢰⣧⠀⠈
 ⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠘⡬⣦⣤⣄⠀⠀⠀⢀⣀⣤⣤⡶⠄
