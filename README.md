@@ -6,7 +6,7 @@
 ⠀⠀⠀⠀⠀⢀⣠⣤⡶⣪⣾⣿⠟⠋⢀⣼⠀⠀⡀⠀⠀⢀⡴⢁⣼⣿⡿⠥⠤⢤     August Lindgren-Ruby
 ⠀⠀⣠⣴⣾⣿⡿⣫⣾⡿⠋⢁⣤⣾⣿⣿⡀⠀⢣⠀⠀⠘⠤⠊⠀⠀⠀⣠⠖⠋     technical writer, developer
 ⢠⣾⣿⣿⣿⢏⣾⣿⠏⢀⣴⡿⣿⣛⣛⣿⣳⣄⡀⠑⠂⠀⠀⠀⣀⠴⠋        
-⠉⠉⠛⢿⢏⣾⡟⢁⣴⣟⣑⠻⢿⣿⣿⣿⡿⠃⠈⠉⢒⡲⠞⠋
+⠉⠉⠛⢿⢏⣾⡟⢁⣴⣟⣑⠻⢿⣿⣿⣿⡿⠃⠈⠉⢒⡲⠞⠋            august.lindgrenruby@signalwire.com
 ⠀⠀⠀⢸⣾⡏⢀⢺⣿⠟⠁⠀⠀⠋⠛⠉⠀⣠⠴⣾⣿               hello@august.zone
 ⠀⠀⠀⢸⡿⠀⣿⡷⠁⠀⠀⠀⠀⠀⣀⠴⠋⠁⠀⢻⣿               linkedin.com/in/august-lr
 ⠀⠀⠀⢸⡇⣠⠿⠁⠀⠀⠀⠀⢠⣾⠁⠀⠀⠀⠀⠸⠃               currently: docs @ signalwire
